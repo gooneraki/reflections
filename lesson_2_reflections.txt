@@ -9,3 +9,6 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Answer: Run git diff, see differences between staging area and working directory and then commit. Maybe need to git reset some files to limit changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Answer: Branches would help to run the program with other attributes OR experimenting to create another working version...
