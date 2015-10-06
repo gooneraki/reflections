@@ -1,3 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	I don't know. Whatever man.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	Answer: It is something in the middle. nothing done until commit??
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Answer: Run git diff, see differences between staging area and working directory and then commit. Maybe need to git reset some files to limit changes
